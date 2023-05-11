@@ -110,4 +110,19 @@ Yükleyeceğimiz diski seçip next diyoruz ve kurulumun tamamlanmasını bekliyo
 
 
 
+![image](https://github.com/ugurcomptech/windows-server/assets/133202238/6583a662-8ae7-478c-a103-3462a2afd9d8)
+
+Kurulum Tamamlandıktan sonra şifre belirleyip devam ediyoruz.
+
+![image](https://github.com/ugurcomptech/windows-server/assets/133202238/aa2a0709-bc19-43dc-9af8-fb8258dff077)
+
+![image](https://github.com/ugurcomptech/windows-server/assets/133202238/c4489941-6204-409b-9703-2be2f20d55fe)
+
+![image](https://github.com/ugurcomptech/windows-server/assets/133202238/8952f1ed-ea0b-4647-a26f-3c1cfd445dfd)
+
+
+Bilgisayarımız açıldı ve ekran da press ctrl+alt+delet to unlock yazıyor bilgisayarı açmak için bu tuşlara basmanız lazım fakat buna gerek yok. Yukarıdaki pencerelerden "VM" penceresine tıklayıp direkt Send ctrl alt delete yazısını göreceksiniz ona basın ve şifrenizi girip bilgisayarınızı açın.
+
+
+
 
