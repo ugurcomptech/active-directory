@@ -73,13 +73,6 @@ Sekmelerden options kısmına geliyoruz.
 Advanced seçeneğine tıklayıp Firmware type kısmında ki seçeneklerden BIOS seçeneğini seçiyoruz ve "ok" deyip çıkıyoruz.
 
 
-
-
-![image](https://github.com/ugurcomptech/active-directory/assets/133202238/70dfb4e0-6554-476a-84fd-367818839426)
-
-
-Power on this virtual machine seçeneğine tıklayarak sanal makinamızı başlatıyoruz.
-
 ![image](https://github.com/ugurcomptech/active-directory/assets/133202238/896245c5-25bd-417f-a96e-af973473f605)
 
 ![image](https://github.com/ugurcomptech/active-directory/assets/133202238/222990ce-82e7-4568-9deb-45cc84c7ad6c)
