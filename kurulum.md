@@ -62,11 +62,6 @@ CD/DVD(SATA) sekmesine geliyoruz ve Use Iso İmage File seçeneğini seçip brow
 
 
 
-![image](https://github.com/ugurcomptech/active-directory/assets/133202238/70dfb4e0-6554-476a-84fd-367818839426)
-
-
-Power on this virtual machine seçeneğine tıklayarak sanal makinamızı başlatıyoruz.
-
 
 
 ![image](https://github.com/ugurcomptech/active-directory/assets/133202238/3d2b3699-3fae-4ffa-af83-cd6cb6025707)
