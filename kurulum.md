@@ -57,18 +57,63 @@ CD/DVD(SATA) sekmesine geliyoruz ve Use Iso İmage File seçeneğini seçip brow
 
 ![image](https://github.com/ugurcomptech/active-directory/assets/133202238/cb777501-d0c9-491a-a40c-66820cf4c122)
 
+İndirdiğiniz ISO dosyası hangi klasördeyse onun yolunu belirtiyoruz.
 
 
 
 
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/70dfb4e0-6554-476a-84fd-367818839426)
+
+
+Power on this virtual machine seçeneğine tıklayarak sanal makinamızı başlatıyoruz.
+
+
+
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/3d2b3699-3fae-4ffa-af83-cd6cb6025707)
+
+Sekmelerden options kısmına geliyoruz.
+
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/09c60e85-4a0f-4756-90ba-41bb3951ae37)
+
+Advanced seçeneğine tıklayıp Firmware type kısmında ki seçeneklerden BIOS seçeneğini seçiyoruz ve "ok" deyip çıkıyoruz.
 
 
 
 
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/896245c5-25bd-417f-a96e-af973473f605)
+
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/222990ce-82e7-4568-9deb-45cc84c7ad6c)
+
+Keyboard or input method kısmından Turkish Q  seçeneğini seçiyoruz
+
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/bb9d9528-cdfc-4b21-a201-85a68d728eff)
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/e05f54fb-3be2-4ec4-a229-015bbdfd7787)
+
+Install Now dedikten sonra açılmasını bekliyoruz.
+
+
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/198a564d-eb2b-474a-9a34-d64383dde28c)
+
+
+
+Seçeneklerden en alttakini seçip devam ediyoruz.
+
+
+
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/21ad0d57-dec4-4459-822f-ec36ca2d77a6)
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/c8310fdb-9e4d-4038-b92e-9b3888eea110)
+
+
+Sözleşmeyi kabul edip devam ediyoruz ve bize windowsu nasıl yükleyeceğimizi soruyor biz direkt windows serverı sıfırdan kuracağımız için Custom: Install Windows Only(advanced) seçeneğini seçiyoruz.
 
 
 
 
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/7a207863-6c59-441d-b0ae-91bbebdd023f)
+![image](https://github.com/ugurcomptech/active-directory/assets/133202238/85d8fc9b-38c2-4bc6-ae84-04d7cc75feb1)
+
+
+Yükleyeceğimiz diski seçip next diyoruz ve kurulumun tamamlanmasını bekliyoruz.
 
 
 
