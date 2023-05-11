@@ -124,5 +124,7 @@ Kurulum Tamamlandıktan sonra şifre belirleyip devam ediyoruz.
 Bilgisayarımız açıldı ve ekran da press ctrl+alt+delet to unlock yazıyor bilgisayarı açmak için bu tuşlara basmanız lazım fakat buna gerek yok. Yukarıdaki pencerelerden "VM" penceresine tıklayıp direkt Send ctrl alt delete yazısını göreceksiniz ona basın ve şifrenizi girip bilgisayarınızı açın.
 
 
+![image](https://github.com/ugurcomptech/windows-server/assets/133202238/0a77e9d6-5bb6-4f68-990b-b3e699d9ba8e)
 
+Windows Server 2016 başarıyla yüklendi.
 
