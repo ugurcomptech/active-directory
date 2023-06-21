@@ -1,0 +1,1 @@
+Domain ortamını kurmadan önce 
