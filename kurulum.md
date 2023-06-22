@@ -1,5 +1,3 @@
-Active Directory Nası Kurulur?
-
 İlk önce windows server 2008-2012R-2016-2019 gibi sürümlerinden bir tanesinin ISO dosyasını indirmeniz gerekecektir.
 
 ISO dosyasını indirdikten sonra VMware uygulamamızı açıyoruz ve yukarıda ki pencerelerden "file" sekmesine tıklıyoruz.
