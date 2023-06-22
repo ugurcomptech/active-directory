@@ -25,6 +25,7 @@ Features kısmında zaten DNS kısmı otomatik seçiliydi burada direkt next diy
 
 
 Next diyip geçiyoruz.
+
 ![image](https://github.com/ugurcomptech/windows-server/assets/133202238/6e35c553-0b5b-42af-9362-dc57bc412759)
 
 ![image](https://github.com/ugurcomptech/windows-server/assets/133202238/a2aba148-ca8e-4970-845e-3db75262a4c0)
